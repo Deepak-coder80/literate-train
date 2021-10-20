@@ -1,3 +1,8 @@
 <<<<<<<<<<<<First File>>>>>>>>>>
 hello this is a sample text file
 created for git tutorial
+
+
+<<<<<<<<<<Seconde Commit>>>>>>>>>
+this is the second commit 
+this some random content
